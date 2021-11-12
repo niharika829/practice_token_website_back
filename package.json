@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "practice basic flow of tokens",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niharika829/practice_token_website_back.git"
+  },
+  "author": "Niharika Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niharika829/practice_token_website_back/issues"
+  },
+  "homepage": "https://github.com/niharika829/practice_token_website_back#readme"
+}
